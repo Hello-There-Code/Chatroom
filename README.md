@@ -6,6 +6,7 @@ Coded in Python 3.6.9
 # Instructions
 Open terminal
 Run the following lines:
+
 python3 keygen.py
 
 python3 server.py <IP> <Port>
