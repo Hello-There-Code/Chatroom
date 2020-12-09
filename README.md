@@ -2,19 +2,33 @@
 
 # Environment
 The code was built and ran on Linux Ubuntu 18.04
-Coded in Python 3.6.9
+Coded and executed in Python 2.7
+
 # Instructions
 Open terminal
 Run the following lines:
 
-python3 keygen.py
+python keygen.py
 
-python3 server.py <IP> <Port>
+python server.py <IP> <Port>
 
-python3 client.py <IP> <Port>
+python client.py <IP> <Port>
 
 # Installations
 pip install cryptography
 
 # Test Cases
-1) python server.py
+Test 1:
+
+Input: python server.py 0.0.0.0, python client.py 8080
+
+Output: Please input arguments: python script, IP, Port
+
+Test 2:
+
+  Input: 
+    
+    python server.py 0.0.0.0 8080
+    
+
+Output: 
