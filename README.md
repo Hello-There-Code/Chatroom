@@ -26,7 +26,9 @@ Input:
     
     python client.py 8080
 
-Output: Please input arguments: python script, IP, Port
+Output: 
+
+    Please input arguments: python script, IP, Port
 
 Test 2:
 
